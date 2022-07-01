@@ -1,4 +1,4 @@
-# Crypto-Price-Matrix-Bot
+# Crypto Price Matrix Bot
 Simple crypto price alert bot for Matrix in Python
 
 ### How bot works
